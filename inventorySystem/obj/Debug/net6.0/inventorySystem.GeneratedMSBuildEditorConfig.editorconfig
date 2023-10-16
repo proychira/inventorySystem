@@ -36,6 +36,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmFuZ3NpdC9DcmVhdGVSYW5nc2l0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/proychira/Desktop/inventorySystem/inventorySystem/Pages/Rangsit/DeleteRangsit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmFuZ3NpdC9EZWxldGVSYW5nc2l0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/proychira/Desktop/inventorySystem/inventorySystem/Pages/Rangsit/EditRangsit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmFuZ3NpdC9FZGl0UmFuZ3NpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/proychira/Desktop/inventorySystem/inventorySystem/Pages/Rangsit/IndexRangsit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmFuZ3NpdC9JbmRleFJhbmdzaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -46,6 +54,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/proychira/Desktop/inventorySystem/inventorySystem/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/proychira/Desktop/inventorySystem/inventorySystem/Pages/Siam/CreateSiam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2lhbS9DcmVhdGVTaWFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/proychira/Desktop/inventorySystem/inventorySystem/Pages/Siam/DeleteSiam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2lhbS9EZWxldGVTaWFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/proychira/Desktop/inventorySystem/inventorySystem/Pages/Siam/EditSiam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2lhbS9FZGl0U2lhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/proychira/Desktop/inventorySystem/inventorySystem/Pages/Siam/IndexSiam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2lhbS9JbmRleFNpYW0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/proychira/Desktop/inventorySystem/inventorySystem/Pages/_ViewImports.cshtml]

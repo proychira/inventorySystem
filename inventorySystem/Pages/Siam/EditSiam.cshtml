@@ -1,5 +1,5 @@
 ﻿@page
-@model inventorySystem.Pages.Rangsit.CreateRangsitModel
+@model inventorySystem.Pages.Siam.EditSiamModel
 @{
 }
 
@@ -8,13 +8,14 @@
 
 @if (Model.errorMessage.Length > 0)
 {
-        <div class="alert alert-warning alert-dismissible fade show" role="alert">
-             <strong>@Model.errorMessage</strong>
-             <button type="button" class="btn-close" data-bs-dissmiss="alert" aria-label="Close"></button>
-        </div>
+    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+        <strong>@Model.errorMessage</strong>
+        <button type="button" class="btn-close" data-bs-dissmiss="alert" aria-label="Close"></button>
+    </div>
 }
 
 <form method="post">
+    <input type="hidden" name="itemid" value="@Model.stockInfo.itemid" />
     <div class="row mb-3">
         <label class="col-sm-3 col-form-label">Item</label>
         <div class="col-sm-6">
@@ -63,7 +64,7 @@
         </div>
 
         <div class="col-sm-3 d-grid">
-            <a class="btn btn-outline-primary" href="/Rangsit/IndexRangsit" role="button">Cancel<</a>
+            <a class="btn btn-outline-primary" href="/Siam/IndexSiam" role="button">Cancel<</a>
         </div>
     </div>
 

@@ -6,9 +6,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Data.SqlClient;
 
-namespace inventorySystem.Pages.Rangsit
+namespace inventorySystem.Pages.Siam
 {
-	public class CreateRangsitModel : PageModel
+	public class CreateSiamModel : PageModel
     {
         public StockInfo stockInfo = new StockInfo();
         public String errorMessage = "";
@@ -71,7 +71,7 @@ namespace inventorySystem.Pages.Rangsit
             stockInfo.amount = "";
             successMessage = "New item Added Correctly";
 
-            Response.Redirect("/Rangsit/IndexRangsit");
+            Response.Redirect("/Siam/IndexSiam");
         }
 
     }
